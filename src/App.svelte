@@ -17,17 +17,15 @@
 
 	h1 {
 		display: block;
-		font-size: 64px;
-		padding: 0 0.2em;
-		margin-left: 2em;
-		margin-top: -2em;
+		font-size: 7vmin;
+		margin-left: 12vmin;
+		margin-top: -5vmin;
 	}
 
 	h3 {
 		display: block;
-		font-size: 32px;
-		padding: 0 0.2em;
-		margin-left: 12.53em;
-		margin-top: -1.8em;
+		font-size: 4.8vmin;
+		margin-left: 33vmin;
+		margin-top: -7.5vmin;
 	}
 </style>
